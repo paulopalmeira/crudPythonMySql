@@ -22,7 +22,15 @@ Bora criar a tabela USERS (única):
 #   created datetime 
 # );
 
-Agora é o CRUD: Create.py , Read.py, Update.py e Delete.py
+# Agora é o CRUD: 
+
+# Create.py 
+# Read.py
+# Update.py 
+
+e 
+
+# Delete.py
 
 Todos os arquivos começam com
 # import mysql.connector
