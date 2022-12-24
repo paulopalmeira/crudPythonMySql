@@ -22,7 +22,8 @@ Bora criar a tabela USERS (única):
 #   created datetime 
 # );
 
-# Agora é o CRUD: 
+#
+Agora é o CRUD: 
 
 # Create.py 
 # Read.py
